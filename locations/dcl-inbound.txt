@@ -1,0 +1,13 @@
+UDC:42.0956721,-75.9142102
+Leroy and Front:42.0950684,-75.9193084
+Leroy and Murray:42.0955325,-75.9226608
+Leroy and Chestnut:42.0957388,-75.9264226
+Leroy and Laurel:42.0955269,-75.9304038
+Leroy and Beethoven:42.0953398,-75.9342369
+Riverside and Beethoven:42.0925328,-75.9348372
+Riverside and Margaret:42.0980864,-75.9491514
+Riverside and Columbus:42.0994,-75.9548047
+Riverside and Elfred:42.1005285,-75.958935
+Riverside and Ethel:42.1022059,-75.9613285
+Academic A:42.088865,-75.9731209
+Union:42.0868822,-75.9670111

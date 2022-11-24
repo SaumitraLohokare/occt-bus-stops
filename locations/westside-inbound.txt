@@ -1,0 +1,21 @@
+UDC:42.0952484,-75.9141896
+Court and Hawley:42.0987761,-75.9151923
+Main and Front:42.0989047,-75.9179583
+Main and Murray:42.0995459,-75.9216773
+Main and Mather:42.1005569,-75.9252068
+Main and Cedar:42.1023321,-75.9286823
+Main and Clarke:42.1031253,-75.9300992
+Main and Schiller:42.1050151,-75.9335213
+Main and Helen:42.1073755,-75.9376667
+Main and Crestmont:42.1089293,-75.9404944
+Main and Crary:42.1098732,-75.9422192
+Floral and Main:42.1108644,-75.9453484
+Floral and Cleveland:42.1090878,-75.9486855
+Floral and Burbank:42.1085915,-75.9520703
+Floral and Willow:42.1082944,-75.9538353
+Floral and Roberts:42.1079747,-75.9559547
+Floral and Harrison:42.1077013,-75.9581008
+Floral and St. Charles:42.1075212,-75.9598777
+Floral and Cook:42.1070691,-75.9632903
+Academic A:42.088865,-75.9731209
+Union:42.0868822,-75.9670111

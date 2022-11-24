@@ -1,0 +1,22 @@
+Union:42.0868775,-75.9670745
+Physical Facilities:42.0912481,-75.9738914
+Denny's:42.0946838,-75.9754206
+Floral and New York:42.107074,-75.9632409
+Floral and Ackley:42.1073741,-75.9606448
+Floral and Harrison:42.107694,-75.9584409
+Floral and Roberts:42.1080262,-75.9561119
+Floral and Willow:42.1081575,-75.9544528
+Floral and Burbank:42.1085459,-75.9524439
+Floral and Cleveland:42.1090243,-75.9490946
+Floral and Main:42.1109503,-75.94528
+Main and Matthews:42.1096423,-75.941801
+Main and Crestmont:42.1083644,-75.9395895
+Main and Helen:42.1069648,-75.9370428
+Main and Schiller:42.1055209,-75.9342729
+Main and Clarke:42.1032321,-75.9302903
+Main and Cedar:42.1023343,-75.9286872
+Main and Arthur:42.1004146,-75.9249641
+Main and Murray:42.0995249,-75.9215646
+Main and Front:42.0989685,-75.918311
+Hawley and Court:42.0983791,-75.9146004
+UDC:42.0957641,-75.9141736

@@ -1,0 +1,7 @@
+Union:42.0868775,-75.9670745
+Physical Facilities:42.0912481,-75.9738914
+Denny's:42.0946838,-75.9754206
+Binghamton University School of Pharmacy :42.1131051,-75.9562676
+Decker School of Nursing:42.1132099,-75.9545523
+Academic A:42.088865,-75.9731209
+Union:42.0868822,-75.9670111

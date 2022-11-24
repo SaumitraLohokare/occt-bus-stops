@@ -1,0 +1,47 @@
+Union:42.0868775,-75.9670745
+Physical Facilities:42.0912481,-75.9738914
+Denny's:42.0946838,-75.9754206
+Main and Baker:42.1157145,-75.9658389
+Main and Albert :42.1157449,-75.9638587
+Main and St. Charles:42.1157759,-75.9617506
+Main and Baldwin:42.1158212,-75.9584724
+Binghamton University School of Pharmacy :42.1131051,-75.9562676
+Main and Willow :42.1151388,-75.955095
+Jennison and Main (Weekday Stop) :42.1139581,-75.9528242
+Main and Jennison (Weekend Stop) :42.1142939,-75.9529293
+Main and Lester:42.1133777,-75.9507152
+Main and Floral :42.1115114,-75.9457257
+Main and Matthews:42.1096423,-75.941801
+Main and Crestmont:42.1083644,-75.9395895
+Main and Helen:42.1069648,-75.9370428
+Main and Schiller:42.1055209,-75.9342729
+Beethoven and Main :42.1040045,-75.9322594
+Beethoven and Schubert:42.1018522,-75.934309
+Beethoven and Highland :42.1006217,-75.9352325
+Beethoven and Seminary:42.0978436,-75.9349673
+Beethoven and Leroy:42.0957269,-75.9346773
+Leroy and Laurel:42.0954944,-75.9310854
+Leroy and Chestnut:42.0957083,-75.9269979
+Leroy and Walnut:42.0957245,-75.9248769
+Leroy and Murray:42.0955487,-75.9229099
+Oak and Eaton:42.0969425,-75.9205929
+Oak and Main :42.098976,-75.9198973
+Main and Front:42.0989685,-75.918311
+Court and Washington:42.0986912,-75.9136863
+Greater Binghamton Transportation Center:42.1006825,-75.910984
+Court and Carroll:42.0996627,-75.9078971
+Court and Stuyvesant:42.1007179,-75.9040968
+Tompkins and Webster:42.099551,-75.895844
+Tompkins and Jackson:42.0981017,-75.8951828
+Tompkins and Conklin:42.0955838,-75.8939885
+Conklin and Alfred:42.0942622,-75.8981092
+Conklin and Telegraph:42.0937606,-75.901497
+Park Diner:42.0929601,-75.9048196
+Conklin and Livingston:42.0927997,-75.9080781
+Conklin and Tremont:42.0926158,-75.909723
+Conklin and South Washington:42.0914819,-75.9141509
+University Plaza:42.0924104,-75.9538116
+Meadows:42.0893326,-75.955882
+Hayes:42.0883109,-75.9563557
+Washington and Lehigh:42.0824875,-75.9595197
+Union:42.0868822,-75.9670111

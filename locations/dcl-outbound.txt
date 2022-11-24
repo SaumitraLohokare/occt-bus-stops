@@ -1,0 +1,13 @@
+Union:42.0868822,-75.9670111
+Physical Facilities:42.0911758,-75.9738112
+Denny's:42.094589,-75.9754188
+Riverside and Ethel:42.1022702,-75.9614195
+Riverside and Elfred:42.1003428,-75.9586692
+Riverside and Columbus:42.0994501,-75.9551645
+Riverside and Margaret:42.098159,-75.9493055
+Riverside and Beethoven:42.092871,-75.9363646
+Leroy and Laurel:42.0954944,-75.9310854
+Leroy and Chestnut:42.0957083,-75.9269979
+Leroy and Murray:42.0955487,-75.9229099
+Riverside and Front:42.0928893,-75.9200939
+UDC:42.0952484,-75.9141896
