@@ -1,0 +1,1658 @@
+{
+    "westside-outbound": {
+        "Union": {
+            "index": [
+                1
+            ],
+            "latlong": [
+                42.0868775,
+                -75.9670745
+            ]
+        },
+        "Physical Facilities": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0912481,
+                -75.9738914
+            ]
+        },
+        "Denny's": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0946838,
+                -75.9754206
+            ]
+        },
+        "Floral and New York": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.107074,
+                -75.9632409
+            ]
+        },
+        "Floral and Ackley": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.1073741,
+                -75.9606448
+            ]
+        },
+        "Floral and Harrison": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.107694,
+                -75.9584409
+            ]
+        },
+        "Floral and Roberts": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.1080262,
+                -75.9561119
+            ]
+        },
+        "Floral and Willow": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.1081575,
+                -75.9544528
+            ]
+        },
+        "Floral and Burbank": {
+            "index": [
+                9
+            ],
+            "latlong": [
+                42.1085459,
+                -75.9524439
+            ]
+        },
+        "Floral and Cleveland": {
+            "index": [
+                10
+            ],
+            "latlong": [
+                42.1090243,
+                -75.9490946
+            ]
+        },
+        "Floral and Main": {
+            "index": [
+                11
+            ],
+            "latlong": [
+                42.1109503,
+                -75.94528
+            ]
+        },
+        "Main and Matthews": {
+            "index": [
+                12
+            ],
+            "latlong": [
+                42.1096423,
+                -75.941801
+            ]
+        },
+        "Main and Crestmont": {
+            "index": [
+                13
+            ],
+            "latlong": [
+                42.1083644,
+                -75.9395895
+            ]
+        },
+        "Main and Helen": {
+            "index": [
+                14
+            ],
+            "latlong": [
+                42.1069648,
+                -75.9370428
+            ]
+        },
+        "Main and Schiller": {
+            "index": [
+                15
+            ],
+            "latlong": [
+                42.1055209,
+                -75.9342729
+            ]
+        },
+        "Main and Clarke": {
+            "index": [
+                16
+            ],
+            "latlong": [
+                42.1032321,
+                -75.9302903
+            ]
+        },
+        "Main and Cedar": {
+            "index": [
+                17
+            ],
+            "latlong": [
+                42.1023343,
+                -75.9286872
+            ]
+        },
+        "Main and Arthur": {
+            "index": [
+                18
+            ],
+            "latlong": [
+                42.1004146,
+                -75.9249641
+            ]
+        },
+        "Main and Murray": {
+            "index": [
+                19
+            ],
+            "latlong": [
+                42.0995249,
+                -75.9215646
+            ]
+        },
+        "Main and Front": {
+            "index": [
+                20
+            ],
+            "latlong": [
+                42.0989685,
+                -75.918311
+            ]
+        },
+        "Hawley and Court": {
+            "index": [
+                21
+            ],
+            "latlong": [
+                42.0983791,
+                -75.9146004
+            ]
+        },
+        "UDC": {
+            "index": [
+                22
+            ],
+            "latlong": [
+                42.0957641,
+                -75.9141736
+            ]
+        }
+    },
+    "westside-inbound": {
+        "UDC": {
+            "index": [
+                1
+            ],
+            "latlong": [
+                42.0952484,
+                -75.9141896
+            ]
+        },
+        "Court and Hawley": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0987761,
+                -75.9151923
+            ]
+        },
+        "Main and Front": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0989047,
+                -75.9179583
+            ]
+        },
+        "Main and Murray": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.0995459,
+                -75.9216773
+            ]
+        },
+        "Main and Mather": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.1005569,
+                -75.9252068
+            ]
+        },
+        "Main and Cedar": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.1023321,
+                -75.9286823
+            ]
+        },
+        "Main and Clarke": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.1031253,
+                -75.9300992
+            ]
+        },
+        "Main and Schiller": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.1050151,
+                -75.9335213
+            ]
+        },
+        "Main and Helen": {
+            "index": [
+                9
+            ],
+            "latlong": [
+                42.1073755,
+                -75.9376667
+            ]
+        },
+        "Main and Crestmont": {
+            "index": [
+                10
+            ],
+            "latlong": [
+                42.1089293,
+                -75.9404944
+            ]
+        },
+        "Main and Crary": {
+            "index": [
+                11
+            ],
+            "latlong": [
+                42.1098732,
+                -75.9422192
+            ]
+        },
+        "Floral and Main": {
+            "index": [
+                12
+            ],
+            "latlong": [
+                42.1108644,
+                -75.9453484
+            ]
+        },
+        "Floral and Cleveland": {
+            "index": [
+                13
+            ],
+            "latlong": [
+                42.1090878,
+                -75.9486855
+            ]
+        },
+        "Floral and Burbank": {
+            "index": [
+                14
+            ],
+            "latlong": [
+                42.1085915,
+                -75.9520703
+            ]
+        },
+        "Floral and Willow": {
+            "index": [
+                15
+            ],
+            "latlong": [
+                42.1082944,
+                -75.9538353
+            ]
+        },
+        "Floral and Roberts": {
+            "index": [
+                16
+            ],
+            "latlong": [
+                42.1079747,
+                -75.9559547
+            ]
+        },
+        "Floral and Harrison": {
+            "index": [
+                17
+            ],
+            "latlong": [
+                42.1077013,
+                -75.9581008
+            ]
+        },
+        "Floral and St. Charles": {
+            "index": [
+                18
+            ],
+            "latlong": [
+                42.1075212,
+                -75.9598777
+            ]
+        },
+        "Floral and Cook": {
+            "index": [
+                19
+            ],
+            "latlong": [
+                42.1070691,
+                -75.9632903
+            ]
+        },
+        "Academic A": {
+            "index": [
+                20
+            ],
+            "latlong": [
+                42.088865,
+                -75.9731209
+            ]
+        },
+        "Union": {
+            "index": [
+                21
+            ],
+            "latlong": [
+                42.0868822,
+                -75.9670111
+            ]
+        }
+    },
+    "dcl-outbound": {
+        "Union": {
+            "index": [
+                1
+            ],
+            "latlong": [
+                42.0868822,
+                -75.9670111
+            ]
+        },
+        "Physical Facilities": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0911758,
+                -75.9738112
+            ]
+        },
+        "Denny's": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.094589,
+                -75.9754188
+            ]
+        },
+        "Riverside and Ethel": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.1022702,
+                -75.9614195
+            ]
+        },
+        "Riverside and Elfred": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.1003428,
+                -75.9586692
+            ]
+        },
+        "Riverside and Columbus": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.0994501,
+                -75.9551645
+            ]
+        },
+        "Riverside and Margaret": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.098159,
+                -75.9493055
+            ]
+        },
+        "Riverside and Beethoven": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.092871,
+                -75.9363646
+            ]
+        },
+        "Leroy and Laurel": {
+            "index": [
+                9
+            ],
+            "latlong": [
+                42.0954944,
+                -75.9310854
+            ]
+        },
+        "Leroy and Chestnut": {
+            "index": [
+                10
+            ],
+            "latlong": [
+                42.0957083,
+                -75.9269979
+            ]
+        },
+        "Leroy and Murray": {
+            "index": [
+                11
+            ],
+            "latlong": [
+                42.0955487,
+                -75.9229099
+            ]
+        },
+        "Riverside and Front": {
+            "index": [
+                12
+            ],
+            "latlong": [
+                42.0928893,
+                -75.9200939
+            ]
+        },
+        "UDC": {
+            "index": [
+                13
+            ],
+            "latlong": [
+                42.0952484,
+                -75.9141896
+            ]
+        }
+    },
+    "dcl-inbound": {
+        "UDC": {
+            "index": [
+                1
+            ],
+            "latlong": [
+                42.0956721,
+                -75.9142102
+            ]
+        },
+        "Leroy and Front": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0950684,
+                -75.9193084
+            ]
+        },
+        "Leroy and Murray": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0955325,
+                -75.9226608
+            ]
+        },
+        "Leroy and Chestnut": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.0957388,
+                -75.9264226
+            ]
+        },
+        "Leroy and Laurel": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.0955269,
+                -75.9304038
+            ]
+        },
+        "Leroy and Beethoven": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.0953398,
+                -75.9342369
+            ]
+        },
+        "Riverside and Beethoven": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.0925328,
+                -75.9348372
+            ]
+        },
+        "Riverside and Margaret": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.0980864,
+                -75.9491514
+            ]
+        },
+        "Riverside and Columbus": {
+            "index": [
+                9
+            ],
+            "latlong": [
+                42.0994,
+                -75.9548047
+            ]
+        },
+        "Riverside and Elfred": {
+            "index": [
+                10
+            ],
+            "latlong": [
+                42.1005285,
+                -75.958935
+            ]
+        },
+        "Riverside and Ethel": {
+            "index": [
+                11
+            ],
+            "latlong": [
+                42.1022059,
+                -75.9613285
+            ]
+        },
+        "Academic A": {
+            "index": [
+                12
+            ],
+            "latlong": [
+                42.088865,
+                -75.9731209
+            ]
+        },
+        "Union": {
+            "index": [
+                13
+            ],
+            "latlong": [
+                42.0868822,
+                -75.9670111
+            ]
+        }
+    },
+    "up-shuttle": {
+        "Mohawk": {
+            "index": [
+                1
+            ],
+            "latlong": [
+                42.0869728,
+                -75.9660908
+            ]
+        },
+        "Newing": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0884589,
+                -75.9629197
+            ]
+        },
+        "Couper Admin Building": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0896721,
+                -75.965669
+            ]
+        },
+        "East Gym": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.0909098,
+                -75.9673516
+            ]
+        },
+        "UClub": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.0924104,
+                -75.9538116
+            ]
+        },
+        "Meadows": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.0893326,
+                -75.955882
+            ]
+        },
+        "Hayes": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.0883109,
+                -75.9563557
+            ]
+        },
+        "Washington and Lehigh": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.0824875,
+                -75.9595197
+            ]
+        },
+        "Union": {
+            "index": [
+                9
+            ],
+            "latlong": [
+                42.0868822,
+                -75.9670111
+            ]
+        }
+    },
+    "leroy-southside": {
+        "Union": {
+            "index": [
+                1,
+                47
+            ],
+            "latlong": [
+                42.0868775,
+                -75.9670745
+            ]
+        },
+        "Physical Facilities": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0912481,
+                -75.9738914
+            ]
+        },
+        "Denny's": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0946838,
+                -75.9754206
+            ]
+        },
+        "Main and Baker": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.1157145,
+                -75.9658389
+            ]
+        },
+        "Main and Albert ": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.1157449,
+                -75.9638587
+            ]
+        },
+        "Main and St. Charles": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.1157759,
+                -75.9617506
+            ]
+        },
+        "Main and Baldwin": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.1158212,
+                -75.9584724
+            ]
+        },
+        "Binghamton University School of Pharmacy ": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.1131051,
+                -75.9562676
+            ]
+        },
+        "Main and Willow ": {
+            "index": [
+                9
+            ],
+            "latlong": [
+                42.1151388,
+                -75.955095
+            ]
+        },
+        "Jennison and Main (Weekday Stop) ": {
+            "index": [
+                10
+            ],
+            "latlong": [
+                42.1139581,
+                -75.9528242
+            ]
+        },
+        "Main and Jennison (Weekend Stop) ": {
+            "index": [
+                11
+            ],
+            "latlong": [
+                42.1142939,
+                -75.9529293
+            ]
+        },
+        "Main and Lester": {
+            "index": [
+                12
+            ],
+            "latlong": [
+                42.1133777,
+                -75.9507152
+            ]
+        },
+        "Main and Floral ": {
+            "index": [
+                13
+            ],
+            "latlong": [
+                42.1115114,
+                -75.9457257
+            ]
+        },
+        "Main and Matthews": {
+            "index": [
+                14
+            ],
+            "latlong": [
+                42.1096423,
+                -75.941801
+            ]
+        },
+        "Main and Crestmont": {
+            "index": [
+                15
+            ],
+            "latlong": [
+                42.1083644,
+                -75.9395895
+            ]
+        },
+        "Main and Helen": {
+            "index": [
+                16
+            ],
+            "latlong": [
+                42.1069648,
+                -75.9370428
+            ]
+        },
+        "Main and Schiller": {
+            "index": [
+                17
+            ],
+            "latlong": [
+                42.1055209,
+                -75.9342729
+            ]
+        },
+        "Beethoven and Main ": {
+            "index": [
+                18
+            ],
+            "latlong": [
+                42.1040045,
+                -75.9322594
+            ]
+        },
+        "Beethoven and Schubert": {
+            "index": [
+                19
+            ],
+            "latlong": [
+                42.1018522,
+                -75.934309
+            ]
+        },
+        "Beethoven and Highland ": {
+            "index": [
+                20
+            ],
+            "latlong": [
+                42.1006217,
+                -75.9352325
+            ]
+        },
+        "Beethoven and Seminary": {
+            "index": [
+                21
+            ],
+            "latlong": [
+                42.0978436,
+                -75.9349673
+            ]
+        },
+        "Beethoven and Leroy": {
+            "index": [
+                22
+            ],
+            "latlong": [
+                42.0957269,
+                -75.9346773
+            ]
+        },
+        "Leroy and Laurel": {
+            "index": [
+                23
+            ],
+            "latlong": [
+                42.0954944,
+                -75.9310854
+            ]
+        },
+        "Leroy and Chestnut": {
+            "index": [
+                24
+            ],
+            "latlong": [
+                42.0957083,
+                -75.9269979
+            ]
+        },
+        "Leroy and Walnut": {
+            "index": [
+                25
+            ],
+            "latlong": [
+                42.0957245,
+                -75.9248769
+            ]
+        },
+        "Leroy and Murray": {
+            "index": [
+                26
+            ],
+            "latlong": [
+                42.0955487,
+                -75.9229099
+            ]
+        },
+        "Oak and Eaton": {
+            "index": [
+                27
+            ],
+            "latlong": [
+                42.0969425,
+                -75.9205929
+            ]
+        },
+        "Oak and Main ": {
+            "index": [
+                28
+            ],
+            "latlong": [
+                42.098976,
+                -75.9198973
+            ]
+        },
+        "Main and Front": {
+            "index": [
+                29
+            ],
+            "latlong": [
+                42.0989685,
+                -75.918311
+            ]
+        },
+        "Court and Washington": {
+            "index": [
+                30
+            ],
+            "latlong": [
+                42.0986912,
+                -75.9136863
+            ]
+        },
+        "Greater Binghamton Transportation Center": {
+            "index": [
+                31
+            ],
+            "latlong": [
+                42.1006825,
+                -75.910984
+            ]
+        },
+        "Court and Carroll": {
+            "index": [
+                32
+            ],
+            "latlong": [
+                42.0996627,
+                -75.9078971
+            ]
+        },
+        "Court and Stuyvesant": {
+            "index": [
+                33
+            ],
+            "latlong": [
+                42.1007179,
+                -75.9040968
+            ]
+        },
+        "Tompkins and Webster": {
+            "index": [
+                34
+            ],
+            "latlong": [
+                42.099551,
+                -75.895844
+            ]
+        },
+        "Tompkins and Jackson": {
+            "index": [
+                35
+            ],
+            "latlong": [
+                42.0981017,
+                -75.8951828
+            ]
+        },
+        "Tompkins and Conklin": {
+            "index": [
+                36
+            ],
+            "latlong": [
+                42.0955838,
+                -75.8939885
+            ]
+        },
+        "Conklin and Alfred": {
+            "index": [
+                37
+            ],
+            "latlong": [
+                42.0942622,
+                -75.8981092
+            ]
+        },
+        "Conklin and Telegraph": {
+            "index": [
+                38
+            ],
+            "latlong": [
+                42.0937606,
+                -75.901497
+            ]
+        },
+        "Park Diner": {
+            "index": [
+                39
+            ],
+            "latlong": [
+                42.0929601,
+                -75.9048196
+            ]
+        },
+        "Conklin and Livingston": {
+            "index": [
+                40
+            ],
+            "latlong": [
+                42.0927997,
+                -75.9080781
+            ]
+        },
+        "Conklin and Tremont": {
+            "index": [
+                41
+            ],
+            "latlong": [
+                42.0926158,
+                -75.909723
+            ]
+        },
+        "Conklin and South Washington": {
+            "index": [
+                42
+            ],
+            "latlong": [
+                42.0914819,
+                -75.9141509
+            ]
+        },
+        "University Plaza": {
+            "index": [
+                43
+            ],
+            "latlong": [
+                42.0924104,
+                -75.9538116
+            ]
+        },
+        "Meadows": {
+            "index": [
+                44
+            ],
+            "latlong": [
+                42.0893326,
+                -75.955882
+            ]
+        },
+        "Hayes": {
+            "index": [
+                45
+            ],
+            "latlong": [
+                42.0883109,
+                -75.9563557
+            ]
+        },
+        "Washington and Lehigh": {
+            "index": [
+                46
+            ],
+            "latlong": [
+                42.0824875,
+                -75.9595197
+            ]
+        }
+    },
+    "health-sciences-complex": {
+        "Union": {
+            "index": [
+                1,
+                7
+            ],
+            "latlong": [
+                42.0868775,
+                -75.9670745
+            ]
+        },
+        "Physical Facilities": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0912481,
+                -75.9738914
+            ]
+        },
+        "Denny's": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0946838,
+                -75.9754206
+            ]
+        },
+        "Binghamton University School of Pharmacy ": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.1131051,
+                -75.9562676
+            ]
+        },
+        "Decker School of Nursing": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.1132099,
+                -75.9545523
+            ]
+        },
+        "Academic A": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.088865,
+                -75.9731209
+            ]
+        }
+    },
+    "itc-shuttle": {
+        "Mohawk": {
+            "index": [
+                1,
+                9
+            ],
+            "latlong": [
+                42.0869728,
+                -75.9660908
+            ]
+        },
+        "Newing": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0884589,
+                -75.9629197
+            ]
+        },
+        "Couper Admin Building": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0896721,
+                -75.965669
+            ]
+        },
+        "East Gym": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.0909098,
+                -75.9673516
+            ]
+        },
+        "Innovative Technologies Complex": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.0935623,
+                -75.9586888
+            ]
+        },
+        "West Gym": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.0916676,
+                -75.9710786
+            ]
+        },
+        "Maguire Building": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.0915769,
+                -75.9738095
+            ]
+        },
+        "Academic A": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.088865,
+                -75.9731209
+            ]
+        }
+    },
+    "itcuclub-shuttle": {
+        "Mohawk": {
+            "index": [
+                1
+            ],
+            "latlong": [
+                42.0869728,
+                -75.9660908
+            ]
+        },
+        "Innovative Technologies Complex": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0934781,
+                -75.9587236
+            ]
+        },
+        "UClub": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0924098,
+                -75.9538078
+            ]
+        },
+        "Meadows": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.0893543,
+                -75.9558189
+            ]
+        },
+        "Hayes": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.0883397,
+                -75.9562796
+            ]
+        },
+        "Washington and Lehigh": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.0824854,
+                -75.9595187
+            ]
+        },
+        "Union": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.0868769,
+                -75.9670978
+            ]
+        }
+    },
+    "campus-shuttle": {
+        "Engineering ": {
+            "index": [
+                1,
+                15
+            ],
+            "latlong": [
+                42.0868783,
+                -75.9683081
+            ]
+        },
+        "Mohawk": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0869815,
+                -75.9660407
+            ]
+        },
+        "*Decker Student Health Services*": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0854801,
+                -75.965026
+            ]
+        },
+        "Dickinson": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.08722,
+                -75.9650197
+            ]
+        },
+        "Newing": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.0884571,
+                -75.9629196
+            ]
+        },
+        "Couper Admin": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.089673,
+                -75.9656637
+            ]
+        },
+        "East Gym": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.090907,
+                -75.9673491
+            ]
+        },
+        "West Gym": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.0916676,
+                -75.9710786
+            ]
+        },
+        "Maguire Building": {
+            "index": [
+                9
+            ],
+            "latlong": [
+                42.0915769,
+                -75.9738095
+            ]
+        },
+        "Clearview": {
+            "index": [
+                10
+            ],
+            "latlong": [
+                42.0890516,
+                -75.9743059
+            ]
+        },
+        "Susquehanna": {
+            "index": [
+                11
+            ],
+            "latlong": [
+                42.086269,
+                -75.9743347
+            ]
+        },
+        "Hillside": {
+            "index": [
+                12
+            ],
+            "latlong": [
+                42.087084,
+                -75.9782069
+            ]
+        },
+        "Mountainview": {
+            "index": [
+                13
+            ],
+            "latlong": [
+                42.0839324,
+                -75.9702334
+            ]
+        },
+        "Academic A": {
+            "index": [
+                14
+            ],
+            "latlong": [
+                42.0883641,
+                -75.9732206
+            ]
+        }
+    },
+    "riviera-ridge-and-town-square-mall": {
+        "Union": {
+            "index": [
+                1,
+                15
+            ],
+            "latlong": [
+                42.0868822,
+                -75.9670111
+            ]
+        },
+        "Physical Facilities": {
+            "index": [
+                2,
+                13
+            ],
+            "latlong": [
+                42.0912481,
+                -75.9738914
+            ]
+        },
+        "Denny's": {
+            "index": [
+                3,
+                12
+            ],
+            "latlong": [
+                42.0946838,
+                -75.9754206
+            ]
+        },
+        "Chuck E Cheese": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.0960712,
+                -75.9792301
+            ]
+        },
+        "Riviera Ridge 1": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.0940103,
+                -75.9954545
+            ]
+        },
+        "Riviera Ridge 2": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.0918781,
+                -75.9964775
+            ]
+        },
+        "Holly Brook": {
+            "index": [
+                7
+            ],
+            "latlong": [
+                42.0916992,
+                -76.0001306
+            ]
+        },
+        "Burris and Rano": {
+            "index": [
+                8
+            ],
+            "latlong": [
+                42.0914715,
+                -76.0024326
+            ]
+        },
+        "Target": {
+            "index": [
+                9
+            ],
+            "latlong": [
+                42.0930967,
+                -76.0030668
+            ]
+        },
+        "Barnes and Noble": {
+            "index": [
+                10
+            ],
+            "latlong": [
+                42.0970168,
+                -76.0076062
+            ]
+        },
+        "Walmart": {
+            "index": [
+                11
+            ],
+            "latlong": [
+                42.0965461,
+                -76.012332
+            ]
+        },
+        "Academic A": {
+            "index": [
+                14
+            ],
+            "latlong": [
+                42.088865,
+                -75.9731209
+            ]
+        }
+    },
+    "oakdale-mall-shuttle": {
+        "Union": {
+            "index": [
+                1,
+                7
+            ],
+            "latlong": [
+                42.0868822,
+                -75.9670111
+            ]
+        },
+        "Physical Facilities": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0912481,
+                -75.9738914
+            ]
+        },
+        "Denny's": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.0946838,
+                -75.9754206
+            ]
+        },
+        "Oakdale Mall": {
+            "index": [
+                4
+            ],
+            "latlong": [
+                42.1288598,
+                -75.9733296
+            ]
+        },
+        "Wegmans": {
+            "index": [
+                5
+            ],
+            "latlong": [
+                42.1232914,
+                -75.9726991
+            ]
+        },
+        "Academic A": {
+            "index": [
+                6
+            ],
+            "latlong": [
+                42.088865,
+                -75.9731209
+            ]
+        }
+    },
+    "downtown-express": {},
+    "university-downtown-center-shuttle": {
+        "Union": {
+            "index": [
+                1,
+                4
+            ],
+            "latlong": [
+                42.0868775,
+                -75.9670745
+            ]
+        },
+        "UDC": {
+            "index": [
+                2
+            ],
+            "latlong": [
+                42.0957641,
+                -75.9141736
+            ]
+        },
+        "Academic A": {
+            "index": [
+                3
+            ],
+            "latlong": [
+                42.088865,
+                -75.9731209
+            ]
+        }
+    }
+}
